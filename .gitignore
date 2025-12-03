@@ -1,0 +1,68 @@
+# Ignore audio and video files
+audio_cache/
+audio_files/
+*.wav
+*.mp3
+*.m4a
+*.webm
+*.opus
+*.mp4
+*.avi
+*.mkv
+
+# Ignore vector databases (regenerated at runtime)
+faiss_index/
+chroma_db/
+
+# Ignore model cache
+model_cache/
+
+# Ignore old notebooks
+video_semantic_search.ipynb
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log

@@ -2,6 +2,17 @@
 
 A semantic search system for YouTube videos using GPU-accelerated speech-to-text (Whisper) and vector similarity search (FAISS).
 
+## 🚀 Demo (Screenshots)
+
+<p align="center">
+  <img src="Screenshot1.png" width="720" alt="Video Semantic Search Screenshot 1">
+</p>
+
+<p align="center">
+  <img src="Screenshot2.png" width="720" alt="Video Semantic Search Screenshot 2">
+</p>
+
+---
 ## Features
 
 - **GPU-Accelerated Transcription**: Uses OpenAI's Whisper model with CUDA support for fast audio transcription

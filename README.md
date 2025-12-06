@@ -2,7 +2,7 @@
 
 A semantic search system for YouTube videos using GPU-accelerated speech-to-text (Whisper) and vector similarity search (FAISS).
 
-## 🚀 Demo (Screenshots)
+##  Demo (Screenshots)
 
 <p align="center">
   <img src="Screenshot1.png" width="720" alt="Video Semantic Search Screenshot 1">
